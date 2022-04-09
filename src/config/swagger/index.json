@@ -1,0 +1,23 @@
+{
+  "openapi": "3.0.8",
+  "info": {
+    "title": "NikeShose API",
+    "description": "test",
+    "contact": {
+      "email": "test@a.com",
+      "name": "Ginam Kwon",
+      "url": "http://localhost:9999"
+    },
+    "version": "1.0.0"
+  },
+  "externalDocs": {
+    "description": "Dev",
+    "url": "https://www.naver.com"
+  },
+  "tags": [
+    {
+      "name": "Users",
+      "description": "user api"
+    }
+  ]
+}
